@@ -134,7 +134,7 @@ The original notebook was supplied in Jupyter/Colab JSON format and has been ret
 
 ## Dashboard
 
-Open [`results/asymmetric_beta_dashboard.html`](results/asymmetric_beta_dashboard.html) locally in a browser.
+Open https://riddhichowdhuri.github.io/asymmetric-beta-Indian-sectoral-indices/results/asymmetric_beta_dashboard.html locally in a browser.
 
 The dashboard includes:
 
