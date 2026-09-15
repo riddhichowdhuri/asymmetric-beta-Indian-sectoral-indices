@@ -1,0 +1,7 @@
+Sector,ADF Statistic,ADF p-value,ADF Result,LB Statistic,LB p-value,LB Result,ARCH Statistic,ARCH p-value,ARCH Result,JB Statistic,JB p-value,JB Result
+Nifty Auto,-7.6924,0,Stationary,8.9632,0.535597,No Autocorrelation,12.247,0.031555,ARCH Effects,24.1678,6e-06,Non-Normal
+Nifty Bank,-7.3584,0,Stationary,8.1215,0.616969,No Autocorrelation,27.865,3.9e-05,ARCH Effects,221.2734,0.0,Non-Normal
+Nifty FMCG,-19.6838,0,Stationary,7.249,0.701752,No Autocorrelation,9.5186,0.090082,No ARCH Effects,62.2099,0.0,Non-Normal
+Nifty Healthcare,-19.9703,0,Stationary,20.4642,0.025155,Autocorrelation,52.5747,0.0,ARCH Effects,170.3146,0.0,Non-Normal
+Nifty IT,-6.9504,0,Stationary,7.3982,0.687392,No Autocorrelation,5.362,0.373317,No ARCH Effects,5.1547,0.075976,Normal
+Nifty Oil & Gas,-13.0029,0,Stationary,9.9752,0.442667,No Autocorrelation,8.1374,0.148823,No ARCH Effects,215.166,0.0,Non-Normal

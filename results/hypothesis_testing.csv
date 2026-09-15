@@ -1,0 +1,7 @@
+Sector,β+,β-,Difference (β- − β+),Wald Statistic (χ²),p-value,Decision,Interpretation
+Nifty Auto,1.2403,1.0891,-0.1512,0.62,0.431047,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
+Nifty Bank,1.3638,1.1563,-0.2075,0.8748,0.34964,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
+Nifty FMCG,0.6058,0.5528,-0.053,0.0553,0.814163,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
+Nifty Healthcare,0.6654,0.5903,-0.0751,0.0465,0.829205,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
+Nifty IT,0.6829,1.0284,0.3455,3.0596,0.080263,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
+Nifty Oil & Gas,0.8874,0.9994,0.112,0.2181,0.640511,Fail to Reject H0 (Symmetric),Symmetric: no significant difference between β+ and β-.
